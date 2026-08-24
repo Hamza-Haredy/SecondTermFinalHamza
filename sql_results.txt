@@ -1,0 +1,437 @@
+
+=== more_than_10000_stars ===
+                                                                        name                      owner         language  stars
+                                                                  tensorflow                 tensorflow              C++ 197380
+                                                                transformers                huggingface           Python 164392
+                                                            ML-For-Beginners                  microsoft Jupyter Notebook  89733
+                                                                      funNLP             fighting41love           Python  82636
+                                                    awesome-machine-learning               josephmisiti           Python  74138
+                                                                scikit-learn               scikit-learn           Python  67044
+                                                                      gradio                 gradio-app           Python  43411
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code              ashishpatel26          Unknown  36478
+                                                                 C-Plus-Plus              TheAlgorithms              C++  34599
+                                                                      netron                 lutzroeder       JavaScript  33393
+                                                             ML-From-Scratch            eriklindernoren           Python  32516
+                                                                  applied-ml                  eugeneyan          Unknown  30079
+                                     machine-learning-for-software-engineers                    ZuzooVn          Unknown  28867
+                                          linkedin-skill-assessments-quizzes                  Ebazhanov           Python  28806
+                                                                 cs249r_book               harvard-edge           Python  27993
+                                                                        shap                       shap Jupyter Notebook  25699
+                                                   homemade-machine-learning                   trekhleb Jupyter Notebook  24774
+                                                                      Paddle               PaddlePaddle              C++  24062
+                                                           best-of-ml-python                lukasmasuch          Unknown  23731
+                                                                           C              TheAlgorithms                C  22340
+                                                                        onnx                       onnx           Python  21349
+                                                                        rasa                     RasaHQ           Python  21304
+                                                                     video2x                     k4yt3x              C++  21040
+                                         awesome-production-machine-learning                  EthicalML          Unknown  20864
+                                                machine-learning-for-trading              stefan-jansen Jupyter Notebook  20599
+                                            stanford-cs-229-machine-learning                   afshinea          Unknown  20150
+                                                                   ml-agents         Unity-Technologies               C#  19643
+                                                                    LightGBM               lightgbm-org              C++  18709
+                                                              ml-engineering                     stas00           Python  18694
+                                                  Machine-Learning-Tutorials                 ujjwalkarn          Unknown  18142
+                                                                      ML-NLP                   NLP-LOVE Jupyter Notebook  17798
+                                                                        brpc                     apache              C++  17593
+                                                          ML-YouTube-Courses                    dair-ai          Unknown  17385
+                                                                    numpy-ml                  ddbourgin           Python  16331
+                                                             transformers.js                huggingface       JavaScript  16264
+                                                          mml-book.github.io                   mml-book Jupyter Notebook  15915
+                                                                    kubeflow                   kubeflow          Unknown  15827
+                                                              cheatsheets-ai             kailashahirwar          Unknown  15428
+                                                                        ggml                   ggml-org              C++  15221
+                                                                         Qix                   ty4z2008          Unknown  15194
+                                                                      imgaug                      aleju           Python  14739
+                                                                     bullet3              bulletphysics              C++  14692
+                                                                  ChatterBot                 gunthercox           Python  14509
+                                                                        dlib                  davisking              C++  14432
+                                                                         nni                  microsoft           Python  14362
+                                                  mit-deep-learning-book-pdf                   janishar             Java  14212
+                                                                         ivy                    unifyai           Python  14171
+                                                   machine-learning-zoomcamp              DataTalksClub Jupyter Notebook  14004
+                                                                 handson-ml3                     ageron Jupyter Notebook  13989
+                                                                         tvm                     apache           Python  13680
+                                                                    Ai-Learn                   tangyudi          Unknown  13281
+                                                       deep-learning-drizzle                   kmario23             HTML  12934
+                                                  machine-learning-interview                   khangich          Unknown  12791
+                                                python-machine-learning-book                      rasbt Jupyter Notebook  12643
+                                                                predictionio                     apache            Scala  12518
+                                                                        lime                   marcotcr       JavaScript  12166
+                                                                    cleanlab                   cleanlab           Python  11632
+                                                  dive-into-machine-learning dive-into-machine-learning          Unknown  11390
+                                                                MLAlgorithms                    rushter           Python  11168
+                                                                  turicreate                      apple              C++  11159
+                                                   amazon-sagemaker-examples                        aws Jupyter Notebook  10980
+                             A-Curated-List-of-ML-System-Design-Case-Studies               Engineer1999          Unknown  10951
+                                                                       dolly             databrickslabs           Python  10804
+                                                                     doccano                    doccano           Python  10757
+                                                                 mlcourse.ai                      Yorko           Python  10692
+                                             machine-learning-systems-design                  chiphuyen             HTML  10543
+                                                            Machine-Learning               Jack-Cherish           Python  10372
+                                                      machine-learning-notes                 roboticcam Jupyter Notebook  10341
+                                                         3D-Machine-Learning                timzhang642          Unknown  10191
+                                                                        tpot               EpistasisLab Jupyter Notebook  10051
+
+=== name_contains_machine ===
+                                                                        name                      owner         language  stars
+                                                    awesome-machine-learning               josephmisiti           Python  74138
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code              ashishpatel26          Unknown  36478
+                                     machine-learning-for-software-engineers                    ZuzooVn          Unknown  28867
+                                                   homemade-machine-learning                   trekhleb Jupyter Notebook  24774
+                                         awesome-production-machine-learning                  EthicalML          Unknown  20864
+                                                machine-learning-for-trading              stefan-jansen Jupyter Notebook  20599
+                                            stanford-cs-229-machine-learning                   afshinea          Unknown  20150
+                                                  Machine-Learning-Tutorials                 ujjwalkarn          Unknown  18142
+                                                   machine-learning-zoomcamp              DataTalksClub Jupyter Notebook  14004
+                                                  machine-learning-interview                   khangich          Unknown  12791
+                                                python-machine-learning-book                      rasbt Jupyter Notebook  12643
+                                                  dive-into-machine-learning dive-into-machine-learning          Unknown  11390
+                                             machine-learning-systems-design                  chiphuyen             HTML  10543
+                                                            Machine-Learning               Jack-Cherish           Python  10372
+                                                      machine-learning-notes                 roboticcam Jupyter Notebook  10341
+                                                         3D-Machine-Learning                timzhang642          Unknown  10191
+                                                             machinelearning                     dotnet               C#   9352
+                                                   machine_learning_examples             lazyprogrammer           Python   8912
+                       state-of-the-art-result-for-machine-learning-problems                 RedditSota          Unknown   8894
+                                                  financial-machine-learning                     firmai           Python   8757
+                                                             machinelearning                     ljpzzz Jupyter Notebook   8706
+                                                      MachineLearning_Python                  lawlite19           Python   8582
+                                                 Machine-Learning-Collection             aladdinpersson           Python   8488
+                                                machine-learning-cheat-sheet                soulmachine              TeX   8044
+                                                    machine-learning-roadmap                  mrdbourke          Unknown   7894
+                                                machine-learning-yearning-cn            deeplearning-ai              CSS   7845
+                                    Machine-Learning-Specialization-Coursera              greyhatguy007 Jupyter Notebook   7808
+                                             Machine-learning-learning-notes                   Vay-keen          Unknown   7763
+                                          Learn_Machine_Learning_in_3_Months                 llSourcell          Unknown   7603
+                                                   industry-machine-learning                     firmai Jupyter Notebook   7484
+
+=== logical_and ===
+                                                                        name                      owner         language  stars  forks
+                                                                  tensorflow                 tensorflow              C++ 197380  76116
+                                                                transformers                huggingface           Python 164392  34336
+                                                            ML-For-Beginners                  microsoft Jupyter Notebook  89733  22053
+                                                                      funNLP             fighting41love           Python  82636  15277
+                                                    awesome-machine-learning               josephmisiti           Python  74138  15620
+                                                                scikit-learn               scikit-learn           Python  67044  27308
+                                                                      gradio                 gradio-app           Python  43411   3579
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code              ashishpatel26          Unknown  36478   7460
+                                                                 C-Plus-Plus              TheAlgorithms              C++  34599   7854
+                                                                      netron                 lutzroeder       JavaScript  33393   3176
+                                                             ML-From-Scratch            eriklindernoren           Python  32516   5431
+                                                                  applied-ml                  eugeneyan          Unknown  30079   3992
+                                     machine-learning-for-software-engineers                    ZuzooVn          Unknown  28867   6147
+                                          linkedin-skill-assessments-quizzes                  Ebazhanov           Python  28806  12905
+                                                                 cs249r_book               harvard-edge           Python  27993   3534
+                                                                        shap                       shap Jupyter Notebook  25699   3745
+                                                   homemade-machine-learning                   trekhleb Jupyter Notebook  24774   4194
+                                                                      Paddle               PaddlePaddle              C++  24062   6016
+                                                           best-of-ml-python                lukasmasuch          Unknown  23731   3146
+                                                                           C              TheAlgorithms                C  22340   4770
+                                                                        onnx                       onnx           Python  21349   4008
+                                                                        rasa                     RasaHQ           Python  21304   4920
+                                                                     video2x                     k4yt3x              C++  21040   1825
+                                         awesome-production-machine-learning                  EthicalML          Unknown  20864   2590
+                                                machine-learning-for-trading              stefan-jansen Jupyter Notebook  20599   5552
+                                            stanford-cs-229-machine-learning                   afshinea          Unknown  20150   4252
+                                                                   ml-agents         Unity-Technologies               C#  19643   4486
+                                                                    LightGBM               lightgbm-org              C++  18709   4055
+                                                              ml-engineering                     stas00           Python  18694   1204
+                                                  Machine-Learning-Tutorials                 ujjwalkarn          Unknown  18142   3969
+                                                                      ML-NLP                   NLP-LOVE Jupyter Notebook  17798   4627
+                                                                        brpc                     apache              C++  17593   4137
+                                                          ML-YouTube-Courses                    dair-ai          Unknown  17385   2126
+                                                                    numpy-ml                  ddbourgin           Python  16331   3743
+                                                             transformers.js                huggingface       JavaScript  16264   1184
+                                                          mml-book.github.io                   mml-book Jupyter Notebook  15915   2854
+                                                                    kubeflow                   kubeflow          Unknown  15827   2692
+                                                              cheatsheets-ai             kailashahirwar          Unknown  15428   3372
+                                                                        ggml                   ggml-org              C++  15221   1787
+                                                                         Qix                   ty4z2008          Unknown  15194   4574
+                                                                      imgaug                      aleju           Python  14739   2450
+                                                                     bullet3              bulletphysics              C++  14692   3090
+                                                                  ChatterBot                 gunthercox           Python  14509   4421
+                                                                        dlib                  davisking              C++  14432   3442
+                                                                         nni                  microsoft           Python  14362   1851
+                                                  mit-deep-learning-book-pdf                   janishar             Java  14212   2910
+                                                                         ivy                    unifyai           Python  14171   5459
+                                                   machine-learning-zoomcamp              DataTalksClub Jupyter Notebook  14004   3105
+                                                                 handson-ml3                     ageron Jupyter Notebook  13989   5262
+                                                                         tvm                     apache           Python  13680   3962
+                                                                    Ai-Learn                   tangyudi          Unknown  13281   2674
+                                                       deep-learning-drizzle                   kmario23             HTML  12934   2988
+                                                  machine-learning-interview                   khangich          Unknown  12791   2045
+                                                python-machine-learning-book                      rasbt Jupyter Notebook  12643   4373
+                                                                predictionio                     apache            Scala  12518   1897
+                                                                        lime                   marcotcr       JavaScript  12166   1847
+                                                  dive-into-machine-learning dive-into-machine-learning          Unknown  11390   1866
+                                                                MLAlgorithms                    rushter           Python  11168   1768
+                                                                  turicreate                      apple              C++  11159   1118
+                                                   amazon-sagemaker-examples                        aws Jupyter Notebook  10980   6961
+                             A-Curated-List-of-ML-System-Design-Case-Studies               Engineer1999          Unknown  10951   1681
+                                                                       dolly             databrickslabs           Python  10804   1139
+                                                                     doccano                    doccano           Python  10757   1824
+                                                                 mlcourse.ai                      Yorko           Python  10692   5696
+                                             machine-learning-systems-design                  chiphuyen             HTML  10543   1632
+                                                            Machine-Learning               Jack-Cherish           Python  10372   5064
+                                                      machine-learning-notes                 roboticcam Jupyter Notebook  10341   1826
+                                                         3D-Machine-Learning                timzhang642          Unknown  10191   1797
+                                                                        tpot               EpistasisLab Jupyter Notebook  10051   1562
+
+=== logical_or ===
+                                    name           owner         language  stars  forks
+                            transformers     huggingface           Python 164392  34336
+                        ML-For-Beginners       microsoft Jupyter Notebook  89733  22053
+                                  funNLP  fighting41love           Python  82636  15277
+                awesome-machine-learning    josephmisiti           Python  74138  15620
+                            scikit-learn    scikit-learn           Python  67044  27308
+                                  gradio      gradio-app           Python  43411   3579
+                         ML-From-Scratch eriklindernoren           Python  32516   5431
+      linkedin-skill-assessments-quizzes       Ebazhanov           Python  28806  12905
+                             cs249r_book    harvard-edge           Python  27993   3534
+                                    shap            shap Jupyter Notebook  25699   3745
+               homemade-machine-learning        trekhleb Jupyter Notebook  24774   4194
+                                    onnx            onnx           Python  21349   4008
+                                    rasa          RasaHQ           Python  21304   4920
+            machine-learning-for-trading   stefan-jansen Jupyter Notebook  20599   5552
+                          ml-engineering          stas00           Python  18694   1204
+                                  ML-NLP        NLP-LOVE Jupyter Notebook  17798   4627
+                                numpy-ml       ddbourgin           Python  16331   3743
+                      mml-book.github.io        mml-book Jupyter Notebook  15915   2854
+                                  imgaug           aleju           Python  14739   2450
+                              ChatterBot      gunthercox           Python  14509   4421
+                                     nni       microsoft           Python  14362   1851
+                                     ivy         unifyai           Python  14171   5459
+               machine-learning-zoomcamp   DataTalksClub Jupyter Notebook  14004   3105
+                             handson-ml3          ageron Jupyter Notebook  13989   5262
+                                     tvm          apache           Python  13680   3962
+            python-machine-learning-book           rasbt Jupyter Notebook  12643   4373
+                                cleanlab        cleanlab           Python  11632    916
+                            MLAlgorithms         rushter           Python  11168   1768
+               amazon-sagemaker-examples             aws Jupyter Notebook  10980   6961
+                                   dolly  databrickslabs           Python  10804   1139
+                                 doccano         doccano           Python  10757   1824
+                             mlcourse.ai           Yorko           Python  10692   5696
+                        Machine-Learning    Jack-Cherish           Python  10372   5064
+                  machine-learning-notes      roboticcam Jupyter Notebook  10341   1826
+                                    tpot    EpistasisLab Jupyter Notebook  10051   1562
+                                  sktime          sktime           Python   9963   2306
+                 Stock-Prediction-Models     huseinzol05 Jupyter Notebook   9481   3046
+                          AIMLInterviews      alirezadir Jupyter Notebook   9458   1665
+               machine_learning_examples  lazyprogrammer           Python   8912   6402
+                                 pattern           clips           Python   8861   1558
+              financial-machine-learning          firmai           Python   8757   1410
+                         machinelearning          ljpzzz Jupyter Notebook   8706   3686
+                  MachineLearning_Python       lawlite19           Python   8582   2515
+             Machine-Learning-Collection  aladdinpersson           Python   8488   2784
+          introduction_to_ml_with_python        amueller Jupyter Notebook   8155   4671
+                            auto-sklearn          automl           Python   8126   1324
+Machine-Learning-Specialization-Coursera   greyhatguy007 Jupyter Notebook   7808   3728
+                                   h2o-3           h2oai Jupyter Notebook   7495   2025
+               industry-machine-learning          firmai Jupyter Notebook   7484   1249
+
+=== logical_not ===
+                                    name              owner         language  stars
+                              tensorflow         tensorflow              C++ 197380
+                            transformers        huggingface           Python 164392
+                        ML-For-Beginners          microsoft Jupyter Notebook  89733
+                                  funNLP     fighting41love           Python  82636
+                awesome-machine-learning       josephmisiti           Python  74138
+                            scikit-learn       scikit-learn           Python  67044
+                                  gradio         gradio-app           Python  43411
+                             C-Plus-Plus      TheAlgorithms              C++  34599
+                                  netron         lutzroeder       JavaScript  33393
+                         ML-From-Scratch    eriklindernoren           Python  32516
+      linkedin-skill-assessments-quizzes          Ebazhanov           Python  28806
+                             cs249r_book       harvard-edge           Python  27993
+                                    shap               shap Jupyter Notebook  25699
+               homemade-machine-learning           trekhleb Jupyter Notebook  24774
+                                  Paddle       PaddlePaddle              C++  24062
+                                       C      TheAlgorithms                C  22340
+                                    onnx               onnx           Python  21349
+                                    rasa             RasaHQ           Python  21304
+                                 video2x             k4yt3x              C++  21040
+            machine-learning-for-trading      stefan-jansen Jupyter Notebook  20599
+                               ml-agents Unity-Technologies               C#  19643
+                                LightGBM       lightgbm-org              C++  18709
+                          ml-engineering             stas00           Python  18694
+                                  ML-NLP           NLP-LOVE Jupyter Notebook  17798
+                                    brpc             apache              C++  17593
+                                numpy-ml          ddbourgin           Python  16331
+                         transformers.js        huggingface       JavaScript  16264
+                      mml-book.github.io           mml-book Jupyter Notebook  15915
+                                    ggml           ggml-org              C++  15221
+                                  imgaug              aleju           Python  14739
+                                 bullet3      bulletphysics              C++  14692
+                              ChatterBot         gunthercox           Python  14509
+                                    dlib          davisking              C++  14432
+                                     nni          microsoft           Python  14362
+              mit-deep-learning-book-pdf           janishar             Java  14212
+                                     ivy            unifyai           Python  14171
+               machine-learning-zoomcamp      DataTalksClub Jupyter Notebook  14004
+                             handson-ml3             ageron Jupyter Notebook  13989
+                                     tvm             apache           Python  13680
+                   deep-learning-drizzle           kmario23             HTML  12934
+            python-machine-learning-book              rasbt Jupyter Notebook  12643
+                            predictionio             apache            Scala  12518
+                                    lime           marcotcr       JavaScript  12166
+                                cleanlab           cleanlab           Python  11632
+                            MLAlgorithms            rushter           Python  11168
+                              turicreate              apple              C++  11159
+               amazon-sagemaker-examples                aws Jupyter Notebook  10980
+                                   dolly     databrickslabs           Python  10804
+                                 doccano            doccano           Python  10757
+                             mlcourse.ai              Yorko           Python  10692
+         machine-learning-systems-design          chiphuyen             HTML  10543
+                        Machine-Learning       Jack-Cherish           Python  10372
+                  machine-learning-notes         roboticcam Jupyter Notebook  10341
+                                    tpot       EpistasisLab Jupyter Notebook  10051
+                                  sktime             sktime           Python   9963
+                 Stock-Prediction-Models        huseinzol05 Jupyter Notebook   9481
+                                     cog          replicate               Go   9460
+                          AIMLInterviews         alirezadir Jupyter Notebook   9458
+                                 golearn        sjwhitworth               Go   9439
+                         machinelearning             dotnet               C#   9352
+                                catboost           catboost              C++   9075
+               machine_learning_examples     lazyprogrammer           Python   8912
+                                 pattern              clips           Python   8861
+              financial-machine-learning             firmai           Python   8757
+                         machinelearning             ljpzzz Jupyter Notebook   8706
+                           vowpal_wabbit       VowpalWabbit              C++   8706
+                  MachineLearning_Python          lawlite19           Python   8582
+             Machine-Learning-Collection     aladdinpersson           Python   8488
+          introduction_to_ml_with_python           amueller Jupyter Notebook   8155
+                            auto-sklearn             automl           Python   8126
+            machine-learning-cheat-sheet        soulmachine              TeX   8044
+                                  cortex         cortexlabs               Go   8011
+            machine-learning-yearning-cn    deeplearning-ai              CSS   7845
+Machine-Learning-Specialization-Coursera      greyhatguy007 Jupyter Notebook   7808
+                       awesome-youtubers      JoseDeFreitas         Markdown   7747
+                                   h2o-3              h2oai Jupyter Notebook   7495
+               industry-machine-learning             firmai Jupyter Notebook   7484
+
+=== sorted_all ===
+                                                                        name                      owner         language  stars
+                                                                  tensorflow                 tensorflow              C++ 197380
+                                                                transformers                huggingface           Python 164392
+                                                            ML-For-Beginners                  microsoft Jupyter Notebook  89733
+                                                                      funNLP             fighting41love           Python  82636
+                                                    awesome-machine-learning               josephmisiti           Python  74138
+                                                                scikit-learn               scikit-learn           Python  67044
+                                                                      gradio                 gradio-app           Python  43411
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code              ashishpatel26          Unknown  36478
+                                                                 C-Plus-Plus              TheAlgorithms              C++  34599
+                                                                      netron                 lutzroeder       JavaScript  33393
+                                                             ML-From-Scratch            eriklindernoren           Python  32516
+                                                                  applied-ml                  eugeneyan          Unknown  30079
+                                     machine-learning-for-software-engineers                    ZuzooVn          Unknown  28867
+                                          linkedin-skill-assessments-quizzes                  Ebazhanov           Python  28806
+                                                                 cs249r_book               harvard-edge           Python  27993
+                                                                        shap                       shap Jupyter Notebook  25699
+                                                   homemade-machine-learning                   trekhleb Jupyter Notebook  24774
+                                                                      Paddle               PaddlePaddle              C++  24062
+                                                           best-of-ml-python                lukasmasuch          Unknown  23731
+                                                                           C              TheAlgorithms                C  22340
+                                                                        onnx                       onnx           Python  21349
+                                                                        rasa                     RasaHQ           Python  21304
+                                                                     video2x                     k4yt3x              C++  21040
+                                         awesome-production-machine-learning                  EthicalML          Unknown  20864
+                                                machine-learning-for-trading              stefan-jansen Jupyter Notebook  20599
+                                            stanford-cs-229-machine-learning                   afshinea          Unknown  20150
+                                                                   ml-agents         Unity-Technologies               C#  19643
+                                                                    LightGBM               lightgbm-org              C++  18709
+                                                              ml-engineering                     stas00           Python  18694
+                                                  Machine-Learning-Tutorials                 ujjwalkarn          Unknown  18142
+                                                                      ML-NLP                   NLP-LOVE Jupyter Notebook  17798
+                                                                        brpc                     apache              C++  17593
+                                                          ML-YouTube-Courses                    dair-ai          Unknown  17385
+                                                                    numpy-ml                  ddbourgin           Python  16331
+                                                             transformers.js                huggingface       JavaScript  16264
+                                                          mml-book.github.io                   mml-book Jupyter Notebook  15915
+                                                                    kubeflow                   kubeflow          Unknown  15827
+                                                              cheatsheets-ai             kailashahirwar          Unknown  15428
+                                                                        ggml                   ggml-org              C++  15221
+                                                                         Qix                   ty4z2008          Unknown  15194
+                                                                      imgaug                      aleju           Python  14739
+                                                                     bullet3              bulletphysics              C++  14692
+                                                                  ChatterBot                 gunthercox           Python  14509
+                                                                        dlib                  davisking              C++  14432
+                                                                         nni                  microsoft           Python  14362
+                                                  mit-deep-learning-book-pdf                   janishar             Java  14212
+                                                                         ivy                    unifyai           Python  14171
+                                                   machine-learning-zoomcamp              DataTalksClub Jupyter Notebook  14004
+                                                                 handson-ml3                     ageron Jupyter Notebook  13989
+                                                                         tvm                     apache           Python  13680
+                                                                    Ai-Learn                   tangyudi          Unknown  13281
+                                                       deep-learning-drizzle                   kmario23             HTML  12934
+                                                  machine-learning-interview                   khangich          Unknown  12791
+                                                python-machine-learning-book                      rasbt Jupyter Notebook  12643
+                                                                predictionio                     apache            Scala  12518
+                                                                        lime                   marcotcr       JavaScript  12166
+                                                                    cleanlab                   cleanlab           Python  11632
+                                                  dive-into-machine-learning dive-into-machine-learning          Unknown  11390
+                                                                MLAlgorithms                    rushter           Python  11168
+                                                                  turicreate                      apple              C++  11159
+                                                   amazon-sagemaker-examples                        aws Jupyter Notebook  10980
+                             A-Curated-List-of-ML-System-Design-Case-Studies               Engineer1999          Unknown  10951
+                                                                       dolly             databrickslabs           Python  10804
+                                                                     doccano                    doccano           Python  10757
+                                                                 mlcourse.ai                      Yorko           Python  10692
+                                             machine-learning-systems-design                  chiphuyen             HTML  10543
+                                                            Machine-Learning               Jack-Cherish           Python  10372
+                                                      machine-learning-notes                 roboticcam Jupyter Notebook  10341
+                                                         3D-Machine-Learning                timzhang642          Unknown  10191
+                                                                        tpot               EpistasisLab Jupyter Notebook  10051
+                                                                      sktime                     sktime           Python   9963
+                                                     Stock-Prediction-Models                huseinzol05 Jupyter Notebook   9481
+                                                                         cog                  replicate               Go   9460
+                                                              AIMLInterviews                 alirezadir Jupyter Notebook   9458
+                                                                     golearn                sjwhitworth               Go   9439
+                                                             machinelearning                     dotnet               C#   9352
+                                                awesome-ml-for-cybersecurity                      jivoi          Unknown   9318
+                                                       awesome-project-ideas                    NirantK          Unknown   9285
+                                                                    catboost                   catboost              C++   9075
+                                                   machine_learning_examples             lazyprogrammer           Python   8912
+                       state-of-the-art-result-for-machine-learning-problems                 RedditSota          Unknown   8894
+                                                                     pattern                      clips           Python   8861
+                                                  financial-machine-learning                     firmai           Python   8757
+                                                             machinelearning                     ljpzzz Jupyter Notebook   8706
+                                                               vowpal_wabbit               VowpalWabbit              C++   8706
+                                                      MachineLearning_Python                  lawlite19           Python   8582
+                                                 Machine-Learning-Collection             aladdinpersson           Python   8488
+                                                           approachingalmost           abhishekkrthakur          Unknown   8373
+                                              introduction_to_ml_with_python                   amueller Jupyter Notebook   8155
+                                                                auto-sklearn                     automl           Python   8126
+                                                machine-learning-cheat-sheet                soulmachine              TeX   8044
+                                                                      cortex                 cortexlabs               Go   8011
+                                                    machine-learning-roadmap                  mrdbourke          Unknown   7894
+                                                machine-learning-yearning-cn            deeplearning-ai              CSS   7845
+                                    Machine-Learning-Specialization-Coursera              greyhatguy007 Jupyter Notebook   7808
+                                             Machine-learning-learning-notes                   Vay-keen          Unknown   7763
+                                                           awesome-youtubers              JoseDeFreitas         Markdown   7747
+                                          Learn_Machine_Learning_in_3_Months                 llSourcell          Unknown   7603
+                                                                       h2o-3                      h2oai Jupyter Notebook   7495
+                                                   industry-machine-learning                     firmai Jupyter Notebook   7484
+
+=== top_10 ===
+                                                                        name          owner         language  stars  forks
+                                                                  tensorflow     tensorflow              C++ 197380  76116
+                                                                transformers    huggingface           Python 164392  34336
+                                                            ML-For-Beginners      microsoft Jupyter Notebook  89733  22053
+                                                                      funNLP fighting41love           Python  82636  15277
+                                                    awesome-machine-learning   josephmisiti           Python  74138  15620
+                                                                scikit-learn   scikit-learn           Python  67044  27308
+                                                                      gradio     gradio-app           Python  43411   3579
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code  ashishpatel26          Unknown  36478   7460
+                                                                 C-Plus-Plus  TheAlgorithms              C++  34599   7854
+                                                                      netron     lutzroeder       JavaScript  33393   3176
+
+=== summary ===
+ total_repositories  average_stars
+                100        20827.6
+
+=== languages_over_5 ===
+        language  repository_count  average_stars
+          Python                30       26572.97
+         Unknown                23       15646.91
+Jupyter Notebook                19       17111.21
+             C++                12       32222.33
