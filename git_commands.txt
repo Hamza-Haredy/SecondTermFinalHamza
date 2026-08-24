@@ -1,0 +1,23 @@
+# Task 3 — Git and GitHub
+
+# Run these commands inside the project folder.
+
+git init
+git status
+
+git add .
+git status
+
+git commit -m "Complete GitHub machine learning repository analysis"
+
+git branch -M main
+
+# Replace the URL below with YOUR GitHub repository URL.
+git remote add origin https://github.com/YOUR_USERNAME/github-ml-analytics.git
+git remote -v
+
+git push -u origin main
+
+# Verify
+git status
+git log --oneline --decorate -5
