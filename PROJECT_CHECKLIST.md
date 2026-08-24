@@ -1,0 +1,24 @@
+# Project Completion Checklist
+
+- [ ] Run `collect_and_prepare.py` successfully.
+- [ ] Confirm `github_projects.csv` contains the API data.
+- [ ] Confirm required columns are present.
+- [ ] Confirm nested `owner` and `license` values were extracted.
+- [ ] Confirm missing values were handled.
+- [ ] Confirm duplicate repositories were removed.
+- [ ] Confirm dates were converted.
+- [ ] Run `analyze.py`.
+- [ ] Confirm `github_projects.db` exists.
+- [ ] Confirm `Repositories` table exists.
+- [ ] Review `sql_results.txt`.
+- [ ] Review `figures/top_10_repositories.png`.
+- [ ] Review `figures/repository_creation_trend.png`.
+- [ ] Write final insights using the generated results.
+- [ ] Run `git init` and capture the required evidence screenshot.
+- [ ] Stage files and capture the required evidence screenshot.
+- [ ] Commit files and capture the required evidence screenshot.
+- [ ] Create the GitHub repository.
+- [ ] Connect remote and push.
+- [ ] Capture the GitHub push/repository evidence screenshot.
+- [ ] Add the GitHub repository URL to the submission.
+- [ ] Submit the ethics reflection.
